@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad2ed3c8-ff7e-4839-ac9c-e04135502e92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RichelleDeb.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate-index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/opdracht/IMAGES/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/IMAGES/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/opdracht/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/opdracht/opdracht 9.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/opdracht 9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo2/opdracht/opdracht.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/opdracht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Personal homepage opdracht/images/Hearts_of_Iron_4_Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/PersonalHomepage/images/Hearts_of_Iron_4_Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Personal homepage opdracht/images/Maleficent_Mistress_of_Evil_(Official_Film_Poster).png" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/PersonalHomepage/images/Maleficent_Mistress_of_Evil_(Official_Film_Poster).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Personal homepage opdracht/images/Symphony-featured-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/PersonalHomepage/images/Symphony-featured-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Personal homepage opdracht/images/alizee-629629.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/PersonalHomepage/images/alizee-629629.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Personal homepage opdracht/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/PersonalHomepage/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Personal homepage opdracht/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Personal homepage opdracht/personal homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/PersonalHomepage/personal homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Personal homepage opdracht/prognose.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/PersonalHomepage/prognose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/contactinformation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/contactinformation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/demos/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/demos/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/demos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/demos/seman.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/demos/seman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/demos/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/demos/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/opleidingsaanbod VIVES.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/opleidingsaanbod VIVES.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/Picture/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nCK06E1WcHQpBE4HBfmBm7yYwG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/riche/Documents/GitHub/RichelleDeb.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/riche/AppData/Roaming/JetBrains/WebStorm2024.2/node/versions/20.18.0/node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\Personal homepage opdracht\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\contactinformation" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo2\opdracht" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\Labo2" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\Personal homepage opdracht\images" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\Labo2\opdracht" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad2ed3c8-ff7e-4839-ac9c-e04135502e92" name="Changes" comment="" />
+      <created>1728471392184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728471392184</updated>
+      <workItem from="1728471393492" duration="525000" />
+      <workItem from="1728930187512" duration="7375000" />
+      <workItem from="1729002550762" duration="3347000" />
+      <workItem from="1729069697445" duration="4599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
