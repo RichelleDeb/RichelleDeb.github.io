@@ -24,9 +24,9 @@
       <change beforePath="$PROJECT_DIR$/labo3/personalHomepage/personal homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalHomepage/personal homepage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/personalHomepage/prognose.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalHomepage/prognose.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/Picture/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/Demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Demo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <workItem from="1728471393492" duration="525000" />
       <workItem from="1728930187512" duration="7375000" />
       <workItem from="1729002550762" duration="3347000" />
-      <workItem from="1729069697445" duration="5893000" />
+      <workItem from="1729069697445" duration="6314000" />
     </task>
     <servers />
   </component>
