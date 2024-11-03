@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ed3c8-ff7e-4839-ac9c-e04135502e92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo3/HTML DEEL 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/Verslag/Webdevelopment week 4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -16,24 +19,25 @@
       <change beforePath="$PROJECT_DIR$/labo2/opdracht/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo2/opdracht/opdracht 9.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/opdracht 9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo2/opdracht/opdracht.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/opdracht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/HTML DEEL 2/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/contactinformation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/contactinformation/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/demos/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/demos/images/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/demos/seman.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/demos/seman.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/demos/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/demos/table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/opleidingsaanbod/Opleidingsaanbod.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/opleidingsaanbod/Opleidingsaanbod.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/personalHomepage/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalHomepage/images/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/personalHomepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalHomepage/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/personalHomepage/personal homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalHomepage/personal homepage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/personalHomepage/prognose.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalHomepage/prognose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labo4/gesplitst/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/gesplitst/hobbys.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/gesplitst/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/gesplitst/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/gesplitst/images/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labo4/gesplitst/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/gesplitst/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo4/gesplitst/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/gesplitst/likes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/images/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/prognose.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/prognose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/prognose.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/oplossing.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/riche/Documents/GitHub/RichelleDeb.github.io/labo4/gesplitst",
+    "last_opened_file_path": "C:/Users/riche/Documents/GitHub/RichelleDeb.github.io/labo4/PDF",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -79,11 +83,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo4\PDF" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo4\gesplitst" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo4\oplossing persoonlijke webpagina" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\Personal homepage opdracht\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\HTML DEEL 2" />
@@ -113,7 +117,7 @@
       <workItem from="1729002550762" duration="3347000" />
       <workItem from="1729069697445" duration="6674000" />
       <workItem from="1729875964930" duration="210000" />
-      <workItem from="1730664504853" duration="1664000" />
+      <workItem from="1730664504853" duration="2609000" />
     </task>
     <servers />
   </component>
