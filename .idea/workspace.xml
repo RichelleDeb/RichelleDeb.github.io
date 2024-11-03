@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ed3c8-ff7e-4839-ac9c-e04135502e92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/images/Hearts_of_Iron_4_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/images/Maleficent_Mistress_of_Evil_(Official_Film_Poster).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/images/Symphony-featured-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/images/alizee-629629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/images/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/oplossing persoonlijke webpagina/prognose.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/index.html" afterDir="false" />
@@ -12,6 +18,7 @@
       <change beforePath="$PROJECT_DIR$/labo2/opdracht/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo2/opdracht/opdracht 9.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/opdracht 9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo2/opdracht/opdracht.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/opdracht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/HTML deel 2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/HTML DEEL 2/HTML deel 2.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/contactinformation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/contactinformation/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/demos/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/demos/images/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/demos/seman.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/demos/seman.html" afterDir="false" />
@@ -24,9 +31,6 @@
       <change beforePath="$PROJECT_DIR$/labo3/personalHomepage/personal homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalHomepage/personal homepage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo3/personalHomepage/prognose.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/personalHomepage/prognose.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Demo/Picture/images/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/Demo/Picture/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/Demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -51,35 +56,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/riche/Documents/GitHub/RichelleDeb.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/riche/AppData/Roaming/JetBrains/WebStorm2024.2/node/versions/20.18.0/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/riche/Documents/GitHub/RichelleDeb.github.io/labo4/gesplitst",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/riche/AppData/Roaming/JetBrains/WebStorm2024.2/node/versions/20.18.0/node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo4\gesplitst" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo4\oplossing persoonlijke webpagina" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\Personal homepage opdracht\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\HTML DEEL 2" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\Opleidingsaanbod" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\contactinformation" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo2\opdracht" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\Labo2" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\Personal homepage opdracht\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -100,7 +108,9 @@
       <workItem from="1728471393492" duration="525000" />
       <workItem from="1728930187512" duration="7375000" />
       <workItem from="1729002550762" duration="3347000" />
-      <workItem from="1729069697445" duration="6314000" />
+      <workItem from="1729069697445" duration="6674000" />
+      <workItem from="1729875964930" duration="210000" />
+      <workItem from="1730664504853" duration="1004000" />
     </task>
     <servers />
   </component>
