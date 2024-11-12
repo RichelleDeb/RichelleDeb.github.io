@@ -42,7 +42,7 @@ a:hover {
     margin: 5px 0;
 }
 
-ul.checklist li.checked {
+.checklist li.checked {
     background-image: url('images/checked2.jpg');
     background-repeat: no-repeat;
     background-position: left center;
