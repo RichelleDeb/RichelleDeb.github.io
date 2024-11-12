@@ -5,12 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ed3c8-ff7e-4839-ac9c-e04135502e92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo6/Verslag/CSSDEEL2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/demo/box/box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/demo/box/box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/demo/box/flower_cornflower_on_a_transparent_background__by_prussiaart_dbkpyij-fullview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/demo/selectors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/demo/selectors/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht3/OpdrachtResume.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht3/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht4/opdracht4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht5/images/link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht5/opdracht5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht5/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht6/images/checked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht6/images/checked2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht6/images/link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht6/opdracht6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht6/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 5/Opdracht 6/opdracht 6.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 5/Opdracht 6/opdracht 6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 5/Opdracht 6/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo 5/Opdracht 6/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 5/CSS DEEL 1/Verslag5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/labo5/CSS DEEL 1/Verslag5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 5/Opdracht 6/opdracht 6.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo5/Opdracht 6/opdracht 6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 5/Opdracht 6/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo5/Opdracht 6/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo2/opdracht/IMAGES/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/IMAGES/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo2/opdracht/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht/index.html" afterDir="false" />
@@ -54,42 +75,45 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2nCK06E1WcHQpBE4HBfmBm7yYwG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/riche/Documents/GitHub/RichelleDeb.github.io/labo 5/CSS DEEL 1&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/riche/AppData/Roaming/JetBrains/WebStorm2024.2/node/versions/20.18.0/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/riche/Documents/GitHub/RichelleDeb.github.io/labo6/Verslag",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/riche/AppData/Roaming/JetBrains/WebStorm2024.2/node/versions/20.18.0/node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6\Verslag" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6\opdracht6\images" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6\opdracht6" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6\opdracht5" />
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo 5\CSS DEEL 1" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo4\PDF" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo4\gesplitst" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo4\oplossing persoonlijke webpagina" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\HTML DEEL 2" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\Opleidingsaanbod" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo3\contactinformation" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo2\opdracht" />
-      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\Labo2" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6\opdracht6\images" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6\opdracht5\images" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6\opdracht4" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6\Opdracht3" />
+      <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo6" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -115,7 +139,9 @@
       <workItem from="1730664504853" duration="2665000" />
       <workItem from="1730705379013" duration="256000" />
       <workItem from="1730718329706" duration="897000" />
-      <workItem from="1730886512243" duration="706000" />
+      <workItem from="1730886512243" duration="9353000" />
+      <workItem from="1731414003661" duration="365000" />
+      <workItem from="1731438540234" duration="4441000" />
     </task>
     <servers />
   </component>
