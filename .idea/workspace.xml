@@ -5,35 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ed3c8-ff7e-4839-ac9c-e04135502e92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo7/Kalender/Kalender.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/Opdracht 2/images/Hearts_of_Iron_4_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/Opdracht 2/images/Maleficent_Mistress_of_Evil_(Official_Film_Poster).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/Opdracht 2/images/Symphony-featured-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/Opdracht 2/images/alizee-629629.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/Opdracht 2/images/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/Opdracht 2/persweb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/Opdracht 2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/images/Hearts_of_Iron_4_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/images/Maleficent_Mistress_of_Evil_(Official_Film_Poster).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/images/Symphony-featured-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/images/alizee-629629.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/images/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/persweb2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/Verslag/CSSDEEL 3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/demo/background-image/images/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/demo/background-image/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/demo/background-image/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/demo/background-image/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/demo/background-image/styles/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/demo/spicificity/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/demo/spicificity/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/demo/spicificity/styles/stylesnew.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/opdracht/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/opdracht/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/opdracht/nature blog example.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo7/opdracht/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -73,6 +44,25 @@
       <change beforePath="$PROJECT_DIR$/labo6/opdracht5/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo6/opdracht5/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo6/opdracht6/opdracht6.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo6/opdracht6/opdracht6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo6/opdracht6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo6/opdracht6/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/Kalender/Kalender.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/Kalender/Kalender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/Opdracht 2/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/Opdracht 2/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/Opdracht 2/persweb.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/Opdracht 2/persweb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/Opdracht 2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/Opdracht 2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/persweb2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/persweb2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/OpdrachtPersoonlijkeWebpagina/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/demo/background-image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/demo/background-image/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/demo/background-image/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/demo/background-image/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/demo/background-image/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/demo/background-image/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/demo/background-image/styles/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/demo/background-image/styles/style1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/demo/spicificity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/demo/spicificity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/demo/spicificity/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/demo/spicificity/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/demo/spicificity/styles/stylesnew.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/demo/spicificity/styles/stylesnew.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/opdracht/images/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/natureblog/images/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/opdracht/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/natureblog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/opdracht/nature blog example.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/natureblog/nature blog example.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo7/opdracht/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/natureblog/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +156,7 @@
       <workItem from="1731756773811" duration="4217000" />
       <workItem from="1731935402410" duration="1504000" />
       <workItem from="1732047340641" duration="3437000" />
-      <workItem from="1732095952115" duration="430000" />
+      <workItem from="1732095952115" duration="1548000" />
     </task>
     <servers />
   </component>
