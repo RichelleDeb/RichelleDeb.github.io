@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalender</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin: 20px auto;
+            width: 300px;
+            text-align: center;
+        }
+
+        th {
+            background-color: rgb(35,37,70);
+            padding: 10px;
+            color: white;
+        }
+
+        thead th {
+            background-color: rgb(35,37,70);
+            color: rgb(200, 190, 240);
+        }
+
+        td {
+            border: 1px solid #ccc;
+            width: 40px;
+            height: 40px;
+        }
+
+        td:first-child, td:last-child {
+            background-color: rgb(255, 220, 220); /* Roze achtergrond voor weekends */
+        }
+
+        .prev-month, .next-month {
+            color: gray;
+        }
+
+        .free-day {
+            background-color: rgb(250, 120, 120); /* Vrije dag */
+        }
+
+        .weekday {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+<table>
+    <thead>
+    <tr>
+        <th colspan="7">June 2020</th>
+    </tr>
+    <tr>
+        <th>Sun</th>
+        <th>Mon</th>
+        <th>Tue</th>
+        <th>Wed</th>
+        <th>Thu</th>
+        <th>Fri</th>
+        <th>Sat</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td class="prev-month">30</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td class="weekday">4</td>
+        <td class="weekday">5</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+        <td class="weekday">10</td>
+        <td>11</td>
+        <td class="weekday">12</td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td class="weekday">15</td>
+        <td class="free-day">16</td>
+        <td>17</td>
+        <td>18</td>
+        <td class="weekday">19</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>22</td>
+        <td class="weekday">23</td>
+        <td>24</td>
+        <td>25</td>
+        <td class="weekday">26</td>
+        <td>27</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>29</td>
+        <td>30</td>
+        <td class="next-month">31</td>
+        <td class="next-month">1</td>
+        <td class="next-month">2</td>
+        <td class="next-month">3</td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>

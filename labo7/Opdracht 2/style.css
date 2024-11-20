@@ -1,0 +1,160 @@
+
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #ffe6f0;
+    margin: 0;
+    padding: 0;
+    color: #5c2a55;
+}
+
+header, footer {
+    background-color: #ffb6c1;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+h1, h2, h3 {
+    color: #d11a7a;
+}
+
+a {
+    color: #ff69b4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+nav {
+    background-color: #ffccd5;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    margin: 10px 0;
+}
+
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+article img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+
+aside {
+    background-color: #ffe0e9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+
+
+.datagrid {
+    font: normal 12px/1.5 Arial, Helvetica, sans-serif;
+    background: #fff;
+    overflow: hidden;
+    border: 1px solid #E2A1C0;
+    border-radius: 3px;
+}
+
+.datagrid table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+
+.datagrid th, .datagrid td {
+    padding: 8px 10px;
+    border: 1px solid #F3D1E3;
+}
+
+.datagrid thead th {
+    background: linear-gradient(180deg, #FAA7A7 5%, #FFC7C7);
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid #F7CDCD;
+}
+
+.datagrid tbody tr:nth-child(odd) td {
+    background: #FFFFFF;
+    color: #946B7A;
+}
+
+.datagrid tbody tr:nth-child(even) td {
+    background: #F4CFDA;
+    color: #946B7A;
+}
+
+.datagrid tbody tr:last-child td {
+    border-bottom: none;
+}
+
+
+footer p {
+    font-size: 14px;
+    color: #5c2a55;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    header, footer {
+        padding: 15px;
+    }
+
+    nav, section, aside {
+        padding: 15px;
+    }
+}
+Table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid li;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #ffb6c1;
+    color: white;
+}
+
+td {
+    background-color: #ffe6f0;
+}

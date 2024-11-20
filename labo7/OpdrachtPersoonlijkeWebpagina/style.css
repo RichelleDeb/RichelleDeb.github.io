@@ -1,0 +1,120 @@
+/* Algemene stijlen */
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #ffe6f0; /* Lichtroze achtergrond */
+    margin: 0;
+    padding: 0;
+    color: #5c2a55; /* Dieproze/paarsige tekst */
+}
+
+header, footer {
+    background-color: #ffb6c1; /* Lichtroze */
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: #fff; /* Witte tekst */
+}
+
+h1, h2, h3 {
+    color: #d11a7a; /* Donkerroze */
+}
+
+a {
+    color: #ff69b4; /* Felroze */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navigatie sectie */
+nav {
+    background-color: #ffccd5; /* Zachte roze tint */
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    margin: 10px 0;
+}
+
+/* Hoofdsectie */
+section {
+    background-color: #fff; /* Witte achtergrond voor leesbaarheid */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+article img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+aside {
+    background-color: #ffe0e9; /* Lichte roze tint */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #d11a7a; /* Donkerroze */
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #ffb6c1; /* Lichtroze */
+    color: white;
+}
+
+td {
+    background-color: #ffe6f0; /* Lichtroze */
+}
+
+/* Footer */
+footer p {
+    font-size: 14px;
+    color: #5c2a55; /* Donker tekst */
+}
+
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    header, footer {
+        padding: 15px;
+    }
+
+    nav, section, aside {
+        padding: 15px;
+    }
+
+
+}

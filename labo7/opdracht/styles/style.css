@@ -1,0 +1,48 @@
+body {
+    background-color: lightgray;
+    font-size: 0.8em;
+    margin-right: auto;
+    margin-left: auto;
+}
+body>section>header {
+    height: 200px;
+    background-image: url('../images/header.jpg');
+    background-size: cover;
+}
+ body>section>header>h1 {
+     font-weight: bold;
+     font-size: 40px;
+     color: #FFFFFF;
+     margin: 10px;
+     font-family: Arial;
+}
+article {
+    margin: 5px;
+    padding: 5px;
+    background-color: white;
+font-family: Arial;
+    text-decoration: aliceblue;
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 30px
+
+}
+
+
+header {
+    text-decoration-line: underline;
+    font-size: 25px;
+}
+
+nav {
+    padding: 7px;
+    color: green;
+    background-color: #36454F;
+}
+
+nav a{
+    color: green;
+}
