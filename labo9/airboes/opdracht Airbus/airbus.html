@@ -1,0 +1,246 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Airbus Webpagina</title>
+</head>
+
+<body>
+	<header> <!-- top -->
+		<p>AIRBUS - A380</p>
+		<p>Het grootste passagiersvliegtuig ter wereld </p>
+		<img id = vliegtuig src="images/tekklein.png" alt="tekening van vliegtuig" />
+    </header>
+
+    <section class ='news'>
+		<h3>Eerste vlucht</h3>
+		<p>Het toestel maakte zijn eerste trans-Atlantische vlucht met passagiers op 19 maart 2007 tussen
+			 Frankfurt am Main en New York.
+		</p>
+		<h3>Singapore</h3>
+		<p>De eerste vijf A380 toestellen werden aan Singapore Airlines geleverd. Nadat in Toulouse het eerste
+			 afgeleverde toestel op 15 oktober 2007 officieel aan Singapore Airlines overgedragen was, werd op 25
+			 oktober de eerste commerciële vlucht uitgevoerd.
+		</p>
+		<h3>Qantas</h3>
+		<p>Bij een A380 van Qantas (QF32) deed zich kort na het opstijgen van de Luchthaven van Singapore een
+			 "uncontained engine failure" voor waarbij er delen van de motor afvielen. Brokstukken van de
+			 motorbehuizing vielen op het Indonesische eiland Batam. Er vielen geen gewonden.
+		</p>
+		<h3>Air France</h3>
+		<p>Een Airbus A380 van Air France raakte tijdens het taxiën naar de startbaan op John F. Kennedy
+			 International Airport met zijn vleugel de staart van een Bombardier CRJ700 van Comair.
+		</p>
+    </section>
+
+    <section> <!-- main -->
+
+        <section> <!-- logo -->
+			<img src="images/airbus_logo.jpg" alt="Het logo van airbus" />
+        </section>
+
+        <section class = 'introduction'> <!-- introduction -->
+			<p><b>De Airbus A380</b> is het grootste passagiersvliegtuig ter wereld. Het is
+			   een product van het Europese concern Airbus. Het widebody-vliegtuig beschikt over twee
+			   verdiepingen, waardoor het maximaal 853 passagiers kan herbergen. Bij een gemiddelde configuratie
+			   passen er 555 personen in.
+			   De eerste testvlucht werd gemaakt op 27 april 2005. Tweeënhalf jaar later, op 25 oktober 2007,
+			   maakte de A380 haar eerste commerciële vlucht. In dienst van Singapore Airlines vloog de A380 van
+			   Singapore naar Sydney. <span>Dit was eveneens de eerste route waarop een lijndienst door het
+			   toestel werd onderhouden. </span> Anno april 2011 hebben vijf luchtvaartmaatschappijen 47
+			   vliegtuigen van dit type in dienst.
+			</p>
+		</section>
+
+		<div class = 'gallery'>
+			<div class="foto">
+			  <img src="images/A380Grond.JPG" alt="Foto vliegtuig op de grond" />
+			</div>
+			<div class="foto">
+			  <img src="images/Britischairways.JPG" alt="foto" />
+			</div>
+			<div class="foto">
+			  <img src="images/binnen3.jpg" alt="foto" />
+			</div>
+			<div class="foto">
+			  <img src="images/cockpit.jpg" alt="foto" />
+			</div>
+			<div class="foto">
+			  <img src="images/indelucht.jpg" alt="foto" />
+			</div>
+			<div class="foto">
+			  <img src="images/pasagiers.jpg" alt="foto" />
+			</div>
+			<div class="foto">
+			  <img src="images/binnen1.jpg" alt="foto" />
+			</div>
+			<div class="foto">
+			  <img src="images/indelucht2.jpg" alt="foto" />
+			</div>
+			<div class="foto">
+			  <img src="images/abramovich.jpg" alt="foto"/>
+			</div>
+		</div>
+	</section>
+
+    <div class = 'bottom'>
+
+		<div class = 'block'>
+			<ul>
+			  <li> Manchester </li>
+			  <li> Toulouse
+				  <ul>
+					 <li> Main Building </li>
+					 <li> Wing Assembly </li>
+					 <li> Simulator </li>
+				  </ul> </li>
+			   <li> Frankfurt am Main </li>
+			</ul>
+		</div>
+
+		<div> <!-- block -->
+			<ul>
+			  <li> Documentary </li>
+			  <li> Aircrafts
+				  <ul>
+					 <li> <a href="http://www.airbus.com"> A300 - A310 </a></li>
+					 <li> <a href="http://www.airbus.com">A330 - A340 </a></li>
+					 <li> <a href="http://www.airbus.com"> A360 </a></li>
+				  </ul> </li>
+			   <li> A380 - 800 </li>
+			</ul>
+		</div>
+    </div>
+
+	<div class = 'copyright'>
+		<p>&lt; &copy; Airbus A380 &gt;</p>
+	</div>
+	<style>
+		body {
+			margin: 0px auto;
+			padding : 0 px;
+			width: 95%;
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		#vliegtuig{
+			position: absolute;
+			bottom: 60px;
+			right: 250px;
+			width: 200px;
+			height: 100px;
+		}
+		header{
+			height: 200px;
+			background-image: url('./images/bgsky3.jpg');
+			background-size: cover;
+			color: darkblue;
+			font-size: 300%;
+			text-align: center;
+			font-weight: bold;
+			position: relative;
+		}
+
+		.introduction {
+			width: 60%;
+			background: white;
+			padding: 20px;
+			box-sizing: border-box;
+			line-height: 1.6;
+
+		}
+		.introduction p {
+			margin: 0 0 20px 0;
+		}
+		.introduction img {
+			margin-right: 15px;
+			width: 50px;
+			height: auto;
+			float: right;
+
+		}
+		.introduction span {
+			font-weight: bold;
+			color: blue;
+			font-style: italic;
+		}
+
+
+		.news {
+			width: 25%;
+			background-color: #dddddd;
+			border: 1px solid #999999;
+			padding: 10px;
+			box-sizing: border-box;
+			float: right;
+		}
+		.news h3 {
+			margin: 0;
+			color: white;
+			background-color: blue;
+			text-align: center;
+			font-size: 120%;
+			padding: 5px 0;
+		}
+		.news p {
+			margin: 10px 0;
+			color: #666666;
+			font-size: 90%;
+		}
+		.gallery {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 20px;
+			background-color: #999999;
+			padding: 20px;
+			justify-content: center;
+			border: 10px white;
+		}
+		.gallery .foto {
+			width: 180px;
+			height: 180px;
+			border: 1px dotted #999999;
+			background-color: white;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		.gallery img {
+			max-width: 100%;
+			max-height: 100%;
+		}
+		.bottom {
+			background-color: #666666;
+			color: white;
+			display: flex;
+			justify-content: space-between;
+			padding: 20px;
+		}
+		.bottom ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		.bottom li {
+			margin: 5px 0;
+		}
+		.bottom a {
+			color: white;
+			text-decoration: none;
+		}
+		.bottom a:hover {
+			color: red;
+		}
+
+
+		.copyright {
+			text-align: center;
+			background-color: white;
+			color: black;
+			padding: 10px;
+		}
+	</style>
+	</head>
+
+	</style>
+</body>
+</html>
