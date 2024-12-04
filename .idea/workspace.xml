@@ -5,32 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ed3c8-ff7e-4839-ac9c-e04135502e92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo9/demo/collapsing margin/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/demo/relatieve en absolute position/position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/demo/verticalAlign/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/foto/positioneren_image_begin/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/Opdracht Airbus.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/airbus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/A380Grond.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/Britischairways.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/abramovich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/airbus_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/bgsky1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/bgsky2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/bgsky3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/binnen1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/binnen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/binnen3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/cockpit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/indelucht.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/indelucht2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/pasagiers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/qantas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/tek.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/tekening.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/tekklein.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/images/transport.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht Airbus/screenshot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -100,6 +74,12 @@
       <change beforePath="$PROJECT_DIR$/labo8/demo/positioneren elementen/Demo2/u.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo8/demo/positioneren elementen/Demo2/u.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo8/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo8/opdracht cocktail/loungestart.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo8/opdracht cocktail/loungestart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo9/demo/collapsing margin/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/demo/collapsing margin/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo9/demo/relatieve en absolute position/position.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/demo/relatieve en absolute position/position.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo9/demo/verticalAlign/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/demo/verticalAlign/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo9/foto/positioneren_image_begin/Styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/foto/positioneren_image_begin/Styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo9/foto/positioneren_image_begin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/foto/positioneren_image_begin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,8 +89,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -128,24 +108,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/riche/Documents/GitHub/RichelleDeb.github.io/labo9",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "C:/Users/riche/AppData/Roaming/JetBrains/WebStorm2024.2/node/versions/20.18.0/node",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/riche/Documents/GitHub/RichelleDeb.github.io/labo9&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/riche/AppData/Roaming/JetBrains/WebStorm2024.2/node/versions/20.18.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\riche\Documents\GitHub\RichelleDeb.github.io\labo9" />
@@ -198,6 +178,7 @@
       <workItem from="1732624504263" duration="14794000" />
       <workItem from="1732718751051" duration="884000" />
       <workItem from="1733219522409" duration="2320000" />
+      <workItem from="1733302727621" duration="218000" />
     </task>
     <servers />
   </component>
